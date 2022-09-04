@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 , cartelera premier fhd
+http://158.69.116.209:20102/live/8c70a5c912aa4247a740abf1780f9f7d/5bc51d484f6645679af7c3493540df8f/1.m3u8
+
+#EXTINF:-1 , starmax
+http://158.69.116.209:20102/live/6d8da60c6c174c4bb7a4f84525d22411/1037f7ddcaa44dcfa7fb58477534c287/2.m3u8
+
+#EXTINF:-1 ,actionmax
+http://158.69.116.209:20102/live/55527764958f411b84ea2ebc6be07425/2341bb30855942c6910f8d6aebf1194a/3.m3u8
+
+#EXTINF:-1 ,Cinemax action
+http://158.69.116.209:20102/live/e39b5e2be6514231884be0692171e505/d218e82c8fa34d989f1d3536769c8235/4.m3u8
+
+#EXTINF:-1 , Cinemax east
+http://158.69.116.209:20102/live/4e252fc462004c79bd1b5baf9f0697f3/c694aac01df04b7ab19cbf8af2628416/5.m3u8
+
+#EXTINF:-1 ,cinemax
+http://158.69.116.209:20102/live/3a452c843b2449bb9892a53ce02fb937/2cb2f7d921134bd99f54fb4c7d48d346/6.m3u8
+
+#EXTINF:-1 , HBO FAMILY fhd
+http://158.69.116.209:20102/live/e7ac6d81ed0b4ca08f74893d73aa3589/eb7ed54c04214d298b0adf782e0c4879/8.m3u8
+
+#EXTINF:-1 , HBO signature
+http://158.69.116.209:20102/live/3246e2ce0af24eccba87a3d5d6bd03b6/caa07fd2ae6b4497bfae757e894aa4eb/1.m3u8
+
+#EXTINF:-1 ,MOVIE Max 
+http://158.69.116.209:20102/live/82757699db714fc58091cf016835df40/3665802b2fc946efaf3cb70e5b8a203f/16.m3u8
+
+#EXTINF:-1 , MOVIE PLEX 
+http://158.69.116.209:20102/live/f715558a017247e89f9db173b4de42b4/cebb7c0ad4334973a5ab1698e9d141fe/17.m3u8
+
+#EXTINF:-1 , showtime
+http://158.69.116.209:20102/live/df3629706ac347338d56b2c5b3efdcb4/08c2b09cc43246a79bbdb30fc6f99eb2/22.m3u8
+
+#EXTINF:-1 , STARZ BLACK
+http://158.69.116.209:20102/live/82703af683cd45a8b852159099ee7ac5/00443b69a56d48ddab0a1f361d76e2bd/24.m3u8
+
+#EXTINF:-1 , STARZ CinemaHD
+http://158.69.116.209:20102/live/ed5ab0ce60c9400a9e75dde656e02454/15a2bdb6daab4a958a1329e0c2475539/25.m3u8
+
+#EXTINF:-1 , STARZ COMEDY
+http://158.69.116.209:20102/live/52a2090981ce4ca4acca3fecdf41c395/3d94fa8a989f4c4a94c35721dcb851a3/27.m3u8
+
+#EXTINF:-1 , STARZ East
+http://158.69.116.209:20102/live/2f1a50fc90d0433987940600acd9f4d2/6ba871dd88ed43e3b4ede5802e79eaf9/28.m3u8
+
+#EXTINF:-1 , STARZ EDGE
+http://158.69.116.209:20102/live/56e70b4e0e1f4167919b9c4f2a91dee9/8b359721ff7a466480d1cafe0399463b/29.m3u8
+
+#EXTINF:-1 , FOX SPORT
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=170&f=HLSAD&f=.m3u8
+
+#EXTINF:-1 , FOX SPORT FHD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=170&f=HLS&f=.m3u8
+
+#EXTINF:-1 , FOX SPORT 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=172&f=HLSAD&f=.m3u8
+
+#EXTINF:-1 , FOX SPORT 2 FHD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=170&f=HLS&f=.m3u8
+
+#EXTINF:-1 , FOX SPORT 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=178&f=HLSAD&f=.m3u8
+
+#EXTINF:-1 , FOX SPORT 3 FHD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=178&f=HLS&f=.m3u8
+
+#EXTINF:-1 , TUDN FHD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=174&f=HLS&f=.m3u8
+
+#EXTINF:-1 , TUDN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=174&f=HLSAD&f=.m3u8
+
+#EXTINF:-1 ,TVC DEPORTES
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLSAD&f=.m3u8
+
+#EXTINF:-1 , TVC DEPORTES FHD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLS&f=.m3u8
+
+#EXTINF:-1 , Distrito Comedia
+http://209.126.105.238:20102/live/3d28ee1c1abc44469f4921cffbd2f37e/1f33b5b12cb1412d986c20901344c45e/90.m3u8
+
+#EXTINF:-1 , ESTRELLA TV
+http://209.126.105.238:20102/live/4dcf7c47728f467d82aead8af5864fee/5ee630dab8fe45289888d653223dbd4e/83.m3u8
+
+#EXTINF:-1 , Cinemax
+http://209.126.105.238:20102/live/612cd9829650425aacc84304aa7948ff/14685129672f403eba08f1a84bcea3ea/5.m3u8
+
+#EXTINF:-1 , HBO LATINO
+http://209.126.105.238:20102/live/dbadab0b3e704622acd523b6da4d4405/49360c44cf914371a531c43fdd59c472/25.m3u8
+
+#EXTINF:-1 , película SING
+http://209.126.119.148:20102/ppv_movies/video.php?cmd=9252&token=aa50e6ef82ae4751beea539094a0ab86&font=1
+
+#EXTINF:-1 ,SING 2
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17224&token=aa50e6ef82ae4751beea539094a0ab86&font=1
+
+#EXTINF:-1 ,AQUAMAN
+http://209.126.124.36:20103/ppv_movies/video.php?cmd=3882&token=aa50e6ef82ae4751beea539094a0ab86&font=1
+
+#EXTINF:-1 ,BIG HERO 6
+http://209.126.124.36:20103/ppv_movies/video.php?cmd=1337&token=aa50e6ef82ae4751beea539094a0ab86&font=1
+
+#EXTINF:-1 ,LA IDLA DE LA FANTASÍA
+http://209.126.119.148:20102/ppv_movies/video.php?cmd=9905&token=aa50e6ef82ae4751beea539094a0ab86&font=1
